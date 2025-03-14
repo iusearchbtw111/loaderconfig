@@ -1,5 +1,5 @@
 {
-  "load": false,
+  "load": true,
   "repeat": false,
   "count_repeat": 0,
   "exit_before": false
